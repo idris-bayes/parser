@@ -16,7 +16,7 @@ authors = "9nine9nine9"
 depends = contrib
 
 -- modules to install
--- modules =
+modules = Parser
 
 -- main file (i.e. file to load at REPL)
 -- main =
